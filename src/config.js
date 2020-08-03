@@ -1,0 +1,5 @@
+var config = {
+    "DEFAULT_SHEET": "DASHBOARD",
+    "SYMBOL_COLUMN_NAME": "SYMBOL",
+    "START_DATE": "01/01/2020" 
+}
